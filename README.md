@@ -40,3 +40,5 @@ Hệ thống đi kèm với 5 kịch bản kiểm thử tự động trong thư 
 
 ## 6. Minh chứng thực thi (Logs)
 Mọi kết quả chạy thử nghiệm và thông tin log được lưu trữ tại thư mục logs/ bao gồm output khi build và chạy thành công.
+## 7. Ethics & Safe use / An toàn sử dụng
+Mã nguồn này được phát triển cho mục đích học tập và nghiên cứu trong khuôn khổ học phần An toàn thông tin tại Đại học Đại Nam. Tuyệt đối không sử dụng mã nguồn này cho các ứng dụng thực tế hoặc bảo mật dữ liệu nhạy cảm, vì cơ chế Zero Padding và cách quản lý khóa đơn giản trong bài thực hành này không đủ khả năng chống lại các cuộc tấn công mạng hiện đại.
